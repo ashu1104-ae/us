@@ -3,6 +3,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import "./App.css";
 import PuzzleGame from "./PuzzleGame";
 import ReactPlayer from 'react-player';
+import { Analytics } from "@vercel/analytics/react"
 
 
 const photos = [
@@ -96,6 +97,39 @@ Thank you yrr sab chizz k liye aur woo pyaree se gift k liye bhi.
 Aur jldi se wps ek aur aise trip plan kro mai bhott yaad krta hun aapkoo 🥺 ❤ 
 I love uu always ❤ 
 And you are my everything 💝`,
+herMessage: `HAPPY SECOND MONTH ANNIVERSARY BABE There’s nothing in this world can change my feelings for you
+You’re the best part of my life
+Ab sb complete h tere bina
+
+Tujheee kyu niiii smjh aata h mera pyaar
+Kyuuu doubt aajata h tere andr ki mai chli jaugiii
+Mai kha jaugiii, naraaz hoke kuch der m tere paas hi 
+wapas aaugi 
+Haii kaun mera tere alawa
+
+Maine tujhse pehle kbhi kisi k liye aisa feel nii kra
+Tu itna jada pyaara h ki mai roz rozz tere pyaar m girti hu jaise ki 1st day h
+
+Jbse tu meri life m aaya h tbse maine sbko side krdiya, tujhe hi apna dost apna bnda hr chiz tujhe hi smjhne lgi, kyuki tu hai itna acha aur tu deserve krta h
+Jb tu hurt hojata h mai bohot jada pareshan hojati hu kuch smjh ni aata kya kru kaise kruuu puri blank hojati hu
+
+Aaj se pehle kbhi maine kri hi ni itni care kisi ki, kbhi socha v niii ki ek bnda itna imp bnjayega mere liyee ki mai uski wajah se hsugi aur rougii sb uspr depend hojayega
+
+Ashishh I love u the most and I will keep loving you forever 
+Mera pyaar kbhi khatam ni hoga aapke liye I promise 
+Tu best h yrrr itni fikr krta h meri
+Mujhe solutions deta h
+Meri baate sunta h smjhta h
+Trust v itna krta h tu mujhse
+To mai kaise kbhi kuch galat kr skti hu
+
+Mujhe sirf tu chahiyeee vo v hmesaaa hmesaaa k liyeeeeeeeeeee 💞
+Mujhe nii pta tera mn kya rhega life m aage jake at some point but mera to fix hota h ek baar kisi chiz p dil aagya to ♾
+
+Khaiiirrr aap maaf krdo mujheee agr meri taraf se hurt hogye to❤‍🩹
+Bs ab gussa side kroo and aake mujhe khub saraa pyaaar doo🥺🥺
+Once again Happy 2 month mera bchaaaaaaaaaaaaaaa
+Love you lots♥♥`,
   },
   {
     month: "Month 3",
