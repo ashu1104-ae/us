@@ -400,6 +400,14 @@ export default function App() {
                 <source src="/audio/6.opus" type="audio/mpeg" />
                 Your browser does not support the audio element.
               </audio>
+              <audio controls>
+                <source src="/audio/7.opus" type="audio/mpeg" />
+                Your browser does not support the audio element.
+              </audio>
+              <audio controls>
+                <source src="/audio/8.opus" type="audio/mpeg" />
+                Your browser does not support the audio element.
+              </audio>
             </div>
           </div>
         </div>
