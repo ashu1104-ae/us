@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import "./App.css";
 import PuzzleGame from "./PuzzleGame";
 import ReactPlayer from 'react-player';
-import { Analytics } from "@vercel/analytics/react"
+
 
 
 const photos = [
