@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import "./App.css";
 import PuzzleGame from "./PuzzleGame";
 import ReactPlayer from 'react-player';
-
+import { Analytics } from "@vercel/analytics/react"
 
 
 const photos = [
@@ -276,6 +276,7 @@ export default function App() {
 
   return (
     <div className="polaroid-page">
+      <Analytics />
       {/* Top strip */}
       <div className="top-strip">
         <h2 className="text-3xl font-bold text-rose-600">
