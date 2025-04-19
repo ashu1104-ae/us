@@ -383,6 +383,7 @@ export default function App() {
         <div className="video-section">
           <h2>Our Special Videos</h2>
           <div className="video-player">
+          <ReactPlayer url="/videos/15.mp4" controls width="100%" />
             <ReactPlayer url="/videos/1.mp4" controls width="100%" />
             <ReactPlayer url="/videos/12.mp4" controls width="100%" />
             <ReactPlayer url="/videos/13.mp4" controls width="100%" />
