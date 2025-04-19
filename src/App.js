@@ -8,6 +8,7 @@ import { Analytics } from "@vercel/analytics/react"
 
 const photos = [
   { src: "/images/28.jpg" },
+  { src: "/images/61.jpg" },
   { src: "/images/7.jpg" },
   { src: "/images/33.jpg" },
   { src: "/images/17.jpg" },
