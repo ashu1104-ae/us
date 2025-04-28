@@ -571,6 +571,12 @@ body {
   grid-row: 2
     /* Place Month 4 in the second and third rows */
 }
+.message-row:nth-child(5) {
+  grid-column: 1;
+  /* Place Month 1 in the first column */
+  grid-row: 2;
+  /* Place Month 1 in the first row */
+}
 
 /* Style for the month buttons */
 .message-button button {

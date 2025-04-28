@@ -29,6 +29,7 @@ const photos = [
   { src: "/images/43.jpg" },
   { src: "/images/30.jpg" },
   { src: "/images/39.jpg" },
+  { src: "/images/62.jpg" },
   { src: "/images/2.jpg" },
   { src: "/images/40.jpg" },
   { src: "/images/23.jpg" },
@@ -141,6 +142,11 @@ Love you lots♥♥`,
     month: "Month 4",
     myMessage: 'HAPPY FOURTH MONTH ANNIVERSARY Dollu🎉💕 Itni pyaari si h tuu cuttiee I love you soo muchh dollu meri erammm❤ Tu rehti h na toh maza aata h yrrr kitna jaada fun krte h ham log sath me bhot bhot maza aata h tere sath💕 Mujhe toh ab sab fun tere sath he Krna h yeh woo good fun hoo yeh woo naughty fun ho😛 Meri jaan ho aap cuttiee❤ Kitna sahi hooga ham iss baar bhi wps mile ek proper hug zarur krenge smhi❤ Aur bhot saari memories banyenge bhot jaaaa bhott jaada💕💕 Aur dekho yeh kabhi mat bhulna mai tere sath me hamesha chaiyee kuch bhi hoo meri pyaari si jaan hoo aap❤❤ Aur jaan sorry meri galtiyo k liye mai usko aage repeat nhi hone dunga Aur better banunga aapke liye Kyuki aap khush toh mai khush 💕 Jb jb tujhe tension hoti h toh mujhe bhi tension hone lgti h ki tu akele tension nhi utha paayega 😭😭 Aur han jaan tension mat liya kro jaada mai smjhta hun whn woo log krte h waise pr yrr woo log iske worth it bhi nhi h aap unke liye tension lo thodi bhii meri jaan💕💕 I Love you so much ❤ Aur ham jaldi mil rhe h ready rehna apne hero se milne k liye💕💕 Luv u ❤ Once again Happy Fourth Month Anniversary 💕💕',
     herMessage: 'AGAIN HAPPY 4 MONTH ANNIVERSARY JAAN I love u soooo muchh I pray ki hmesa aise hi sath rhe hm kitni v prlm aaye sb sath m face kre Tu duniya ka sbse best bnda h sbseeeeee bestttt meri choti si pyari si jaan h tuuu ashish Itna jada pyar krti hu mai tujhe khud se v nii krti itnaa Kaash jldi mile hm Aap jb paas hote ho to bohot sukooon milta h mujhe Wrna mai bohor pareshan rehti hu andr se hr waqt Jb jb aap mere paas hote ho mai sb bhul jati hui Hr chiz pyari aur achi dikhne lgti h mujhe aapke hone se Aise hi hmesa rehna yr mere paas plzz mai bohot bohot pyaar dugi tujhe I promisee Love u so much golu molu Aur bura feel nii krna uth k ki sogya tu its ok love hota h jaan ho aap meri mujhe ni bura lga Aap mere sath ho mere liye yhi kaafi h ❤❤❤❤',
+  },
+  {
+    month: "Month 5",
+    myMessage: 'Happy 5th Month Anniversary dolluuuuuu 💞💞❤❤\nYayayayy 5 month ho gyee \nKhassh aise aur hote rehe aur ho bhi jaayenge agar aap Daily daily ladai naa kroo toh smjhiii aap 🙂‍↔🙂‍↔💞💞💞\nMera bacha pyara sa h chota sa babyyy jaiseee I love uu 💞❤\nYrr iss baar bhi ham mile toh hamne ek ek sec sath me spend Kiya thaa yrr kitna sahi tha yrr 💖\nAap apne hath se khilate thee kitna sahi feeling thaaa💕😘\nCutuu bbabyy I love u sooo muchhh😍😍\nAap kabhi mat socha hamare bich me koi aayega kabhi koi nhi aayega smjhi aapp mere liye toh aap he sab kuchh hoo smjhii cutuuu babbyy❤❤❤\nMeri bndi meri everything h💖💞\nYrr cutuu aapko pta h woo jb gas leak hua tha aur aapne net bandh kr diya tha yrr sahi  me woo 5-7 min maine kaise  kiya tha yrr kyuki aapne bina batye bnd kr diya thaa mai drr gya tha mai phir balcony me gya jldi se call Kiya aapko bhot gussa aaya tha sachi yrr😞😞\nPhir jb aapki jawab suni tb jaan me jaan aayi \nPhir dekha jab aapko vc pee meri ankho se aasu nikl gye thee🥹🥹❤❤\nDrr gya tha mai yrrrr🥹🥹💖💖\nI love u❤❤luvv uu dolluuu💖💖\n5 mahine ho gyee \nAur bhi hongee💞💞💞\nLove u 😘🩷💕',
+    herMessage: 'Golu meri choti si jaan\nHAPPY FIVE MONTH ANNIVERSARY ❤❤\nladhte aur pyare krte krte ye month v sath dekh liya hmne🥹💞\nAise hi sari life sath dege ek dusre ka\nJitne v din gussa rhe wapas laut k paas aayege promise kro mujhsee💞\nMai nii afford krskti aapse duri🥺🥺\nI love u the most golu\nMeri jaan ho aap\nAapke sath rehne se life bohot beautiful aur khubsurat lgti h🌸🌸\nPagal ho chuki hu aapke pyaar mai ab koi rasta nii dikhta mujhe 🌷\nChotu mera itna pyara sa h\nJldi hi milege hm bohot pyaar dege ek dusre ko bohott🌻\nI wish ki sari zindagi hm ek dusre ko handle kre pyar kre nourish kre grow kre sath m🌹🌹\n❤❤❤❤❤love u lots',
   },
 ];
 
@@ -393,6 +399,8 @@ export default function App() {
             <ReactPlayer url="/videos/4.mp4" controls width="100%" />
             <ReactPlayer url="/videos/5.mp4" controls width="100%" />
             <ReactPlayer url="/videos/6.mp4" controls width="100%" />
+            <ReactPlayer url="/videos/16.mp4" controls width="100%" />
+            <ReactPlayer url="/videos/17.mp4" controls width="100%" />
             <ReactPlayer url="/videos/7.mp4" controls width="100%" />
             <ReactPlayer url="/videos/11.mp4" controls width="100%" />
             <ReactPlayer url="/videos/14.mp4" controls width="100%" />
